@@ -1,0 +1,22 @@
+{
+  "name": "week09-readmegenerator",
+  "version": "1.0.0",
+  "description": "Professional readme generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fett-Boba/Week09-ReadMeGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fett-Boba/Week09-ReadMeGenerator/issues"
+  },
+  "homepage": "https://github.com/Fett-Boba/Week09-ReadMeGenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.0"
+  }
+}
