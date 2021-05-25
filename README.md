@@ -32,7 +32,7 @@ Professional readme generator
 
 ## Contributing
 
-- Tami Shepard.
+- Tami S.
 
 ## Tests
 
