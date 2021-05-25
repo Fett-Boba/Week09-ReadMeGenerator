@@ -48,17 +48,3 @@ Professional readme generator
 
 ![Screen capture of resulting README.md file](img/readmeDemo.PNG)
 
-
-
-
-
-
-
-
-
-## Questions
-
-[https://github.com/fett-boba](https://github.com/fett-boba)
-
-[thugfencer@gmail.com](mailto:thugfencer@gmail.com)
-
