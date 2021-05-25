@@ -37,7 +37,7 @@
 ## Contributing
 
 
-- Tami Shepard and Sparky the Cat
+- Tami S. and Sparky the Cat
 
 ## Tests
 
@@ -48,5 +48,5 @@
 
 [https://github.com/fett-boba](https://github.com/fett-boba)
 
-[thugfencer@gmail.com](mailto:thugfencer@gmail.com)
+[xxxxxxxx@gmail.com](mailto:xxxxxxx@gmail.com)
 
