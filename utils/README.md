@@ -1,36 +1,52 @@
-# asdf
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Tamis awesome project
+
+[![License](https://img.shields.io/badge/License-GNU-red)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
 ## Description
 
-- asdf
+
+- A very awesome project by Tami
+
 ## Table of Contents
- 
-- [Installation](#installation)
 
-- [Usage](#usage)
+[Installation](#installation)
 
-- [License](#license)
+[Usage](#usage)
 
-- [Contributing](#contributing)
+[License](#license)
 
-- [Tests](#tests)
+[Contributing](#contributing)
 
-- [Questions](#questions)
+[Tests](#tests)
+
 ## Installation
 
-- asdf
+
+- No special installation instructions.
+
 ## Usage
 
-- asdf
+
+- Easy usage! Just type node index.js
+
 ## License
 
-- MIT License
+
+- GNU General Public License
+
 ## Contributing
 
-- asdf
+
+- Tami Shepard and Sparky the Cat
+
 ## Tests
 
-- asdf
+
+- No special testing instructions
+
 ## Questions
 
-- asdf
+[https://github.com/fett-boba](https://github.com/fett-boba)
+
+[thugfencer@gmail.com](mailto:thugfencer@gmail.com)
+
